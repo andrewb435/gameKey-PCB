@@ -1,4 +1,5 @@
-gameKey PCBs
+# gameKey PCBs #
+![gameKey PCBs](/docs/MainControlPCB.png)
 
 This repo contains the main control board and thumb cluster board for gameKey devices.
 
