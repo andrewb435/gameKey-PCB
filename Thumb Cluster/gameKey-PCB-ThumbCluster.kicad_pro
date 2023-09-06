@@ -129,8 +129,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 685.8,
-          "drill": 482.6
+          "diameter": 0.6858,
+          "drill": 0.4826
         }
       ],
       "zones_allow_external_fillets": false,
@@ -352,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "gameKey-PCB-ThumbCombined.kicad_pro",
+    "filename": "gameKey-PCB-ThumbCluster.kicad_pro",
     "version": 1
   },
   "net_settings": {
