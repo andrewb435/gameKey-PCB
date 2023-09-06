@@ -369,10 +369,10 @@
   (gr_arc (start -4.999999 -14.491378) (mid -5.088472 -14.207397) (end -5.32258 -14.023914) (layer "Edge.Cuts") (width 0.2) (tstamp c090a392-d7d8-476a-a8ed-4cd1ebc5bff4))
   (gr_arc (start -11.180339 9.999999) (mid -14.573046 -3.553352) (end -5.32258 -14.023914) (layer "Edge.Cuts") (width 0.2) (tstamp dd0d3bb7-76a2-4afb-930b-a001ef93bd5f))
   (gr_circle (center 0 0) (end 15 0) (layer "User.1") (width 0.15) (fill none) (tstamp d2cc054b-9406-490d-ade9-358bce3c0b56))
-  (gr_text "G\n  +\nX\n  Y\nB\n  C" (at 13.335 0) (layer "B.SilkS") (tstamp bd3d50e3-7ada-4dea-9ce2-d0c01a14134a)
+  (gr_text "G\n  +\nX\n  Y\nB\n  C5" (at 13.335 0) (layer "B.SilkS") (tstamp bd3d50e3-7ada-4dea-9ce2-d0c01a14134a)
     (effects (font (size 1.27 1.27) (thickness 0.3048)) (justify mirror))
   )
-  (gr_text "        <C\nP>\n        <W\nS>\n        <E\nN>" (at 0 -25.4 90) (layer "B.SilkS") (tstamp e683c66c-27ed-4f39-8b08-e2022568a643)
+  (gr_text "        <C4\nP>\n        <W\nS>\n        <E\nN>" (at 0 -25.4 90) (layer "B.SilkS") (tstamp e683c66c-27ed-4f39-8b08-e2022568a643)
     (effects (font (size 1.27 1.27) (thickness 0.3048)) (justify mirror))
   )
 
